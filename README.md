@@ -1,1 +1,1 @@
-# CryptoClustering
+Given a csv of crypto pricing data, use machine learning to to predict if cryptocurrencies are affected by 24-hour or 7-day price changes. Here we scaled and fit the data to be able to use clustering and unsupervised learning to predict the price changes and analyze the usefulness of these predictions.
